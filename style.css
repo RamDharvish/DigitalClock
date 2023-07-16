@@ -1,0 +1,31 @@
+
+#tittle{
+    color: #fff;
+}
+body{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 500px;
+    background: #10101E;
+}
+
+
+.time{
+    font-size: 50px;
+    letter-spacing: 3px;
+    color: #fff;
+    margin-top: 20px;
+   
+
+}
+.time span:last-child{
+    background-color: #2E94E3;
+    
+}
+#tittle:hover{
+    color: blue;
+}
+.time:hover{
+    color: violet;
+}
